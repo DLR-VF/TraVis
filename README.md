@@ -1,4 +1,4 @@
-# TraVis
+# Transport Visualizer (TraVis)
 
 A interactive, user-friendly and scalable web-based application for analyzing, communicating and validating the simulation data of a transport model, such as [_TAPAS_](https://www.dlr.de/vf/en/desktopdefault.aspx/tabid-12751/22270_read-29381)
 . 
